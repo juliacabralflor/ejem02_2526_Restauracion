@@ -1,3 +1,5 @@
+Nombre del propietario del proyecto: Julia Cabral Florindo.
+
 # ejem02_2526_Restauracion
 
 
